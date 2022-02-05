@@ -6,7 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,7 +16,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,24 +25,14 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend Mentor challenge](https://www.frontendmentor.io/solutions/tesimonial-grid-section-uLcxcEIOM)
 
 ## My process
+[no comment]
 
 ### Built with
 
@@ -82,7 +71,7 @@ it was also cool to find out that i could save some values as variables which co
 
 ### Continued development
 
-I'm going to keep rading up and brushing up my skills in css so that i can improve myself better. I'm also going o build more sample projects so i can see my improvements so far.
+I'm going to keep  brushing up my skills in css so that i can improve myself better. I'm also going to build more sample projects so i can see my improvements so far.
 
 
 ### Useful resources
@@ -93,9 +82,9 @@ I'm going to keep rading up and brushing up my skills in css so that i can impro
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/favourpro)
-- Twitter - [@yourusername](https://www.twitter.com/favourdev)
+- Website - [noull for now]
+- Frontend Mentor - [@favourpro](https://www.frontendmentor.io/profile/favourpro)
+- Twitter - [@favourdev](https://www.twitter.com/favourdev)
 
 
 
