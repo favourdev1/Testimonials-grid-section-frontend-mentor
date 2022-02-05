@@ -82,7 +82,7 @@ I'm going to keep  brushing up my skills in css so that i can improve myself bet
 
 ## Author
 
-- Website - [noull for now]
+- Website - [null for now]
 - Frontend Mentor - [@favourpro](https://www.frontendmentor.io/profile/favourpro)
 - Twitter - [@favourdev](https://www.twitter.com/favourdev)
 
