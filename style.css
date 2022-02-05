@@ -183,7 +183,7 @@ p {
 
 /* ================RESPONSIVENESS OF THE SITE======================= */
 
-@media (max-width:375px) {
+@media screen and (min-width: 720px) {
     body {
         overflow: visible;
     }
@@ -193,6 +193,7 @@ p {
     .main {
         display: block;
         width: 100%;
+        padding:1%;
     }
     .main-top {
         display: block;
