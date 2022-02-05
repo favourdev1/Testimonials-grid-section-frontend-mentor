@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --moderateviolet: #7541c8;
+    --dark-grayish-blue: #48556a;
+    --dark-blackish-blue: #19212e;
+    --Light-gray: #cfcfcf;
+    --Light-grayish-blue: #ecf2f8;
+    --normal: 500;
+    --bold: 700;
+}
+
+@font-face {
+    font-family: barlow;
+    src: url("asset/font/BarlowSemiCondensed-Light.ttf");
+}
+
+body {
+    background: var(--Light-grayish-blue);
+    Font-size: 13px;
+    height: 100vh;
+    font-family: barlow;
+    overflow: hidden;
+    /* word-spacing: 2px; */
+    line-height: 1.33;
+    /* text-align: justify; */
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 14px;
+}
+
+.main {
+    width: 100%;
+    height: 90vh;
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1% 8%;
+}
+
+.attribution {
+    text-align: center;
+    height: auto;
+    background-color: var(--Light-grayish-blue);
+    padding: 10px;
+}
+
+.main-large {
+    width: 60%;
+}
+
+.main-medium {
+    width: 20%;
+    /* height: 100%; */
+}
+
+.profile {
+    width: 35px;
+    height: 35px;
+    border-radius: 90px;
+}
+
+.card1-profile {
+    padding: 0;
+    display: flex;
+    margin: 5px 0;
+    align-items: center;
+}
+
+.main-top {
+    display: flex;
+    padding: 0;
+}
+
+.profile-holder {
+    margin: 7px 8px;
+    color: var(--Light-gray);
+    /* padding: 2px; */
+    /* background-color: aqua; */
+    position: relative;
+    font-style: normal;
+}
+
+.profile-holder p {
+    font-size: 0.688rem;
+    font-weight: 300;
+}
+
+.aside {
+    height: 100%;
+}
+
+.card {
+    border-radius: 7px;
+    padding: 10px 25px;
+    margin: 8px;
+    height: auto;
+    box-shadow: 0px 0px 8px 2px rgba(128, 128, 128, 0.151);
+}
+
+.card1 {
+    background-color: var(--moderateviolet);
+    width: 70%;
+    position: relative;
+    z-index: -2;
+}
+
+.quote-stack {
+    z-index: -1px;
+    position: relative;
+}
+
+.quote-img {
+    position: absolute;
+    width: 80px;
+    top: 20px;
+    right: 40px;
+    z-index: -1;
+}
+
+.card2 {
+    background-color: var(--dark-grayish-blue);
+    width: 30%;
+}
+
+.card3 {
+    background-color: white;
+    width: 30%;
+}
+
+.card4 {
+    background-color: var(--dark-blackish-blue);
+    width: 70%;
+}
+
+.card5 {
+    background-color: white;
+    color: var(--dark-grayish-blue);
+}
+
+.info .review {
+    font-size: 14px;
+    font-weight: var(--bold);
+    padding-bottom: 13px;
+}
+
+.info .review-details {
+    font-size: 12px;
+    color: var(--Light-grayish-blue);
+    opacity: 70%;
+    font-weight: var(--normal);
+    margin-bottom: 15px;
+}
+
+.card3 .info .review-details {
+    color: var(--dark-grayish-blue);
+}
+
+.card5 .info .review-details {
+    color: var(--dark-grayish-blue);
+}
+
+.light-text {
+    color: var(--Light-grayish-blue);
+}
+
+.dark-text {
+    color: var(--dark-grayish-blue);
+}
+
+
+/* ================RESPONSIVENESS OF THE SITE======================= */
+
+@media (max-width:375px) {
+    body {
+        overflow: visible;
+    }
+    .body {
+        display: block;
+    }
+    .main {
+        display: block;
+        width: 100%;
+    }
+    .main-top {
+        display: block;
+    }
+    .main-large {
+        width: 100%;
+    }
+    .main-medium {
+        width: 100%;
+    }
+    .card1 {
+        width: 100%;
+    }
+    .card2 {
+        width: 100%;
+    }
+    .card3 {
+        width: 100%;
+    }
+    .card4 {
+        width: 100%;
+    }
+}
