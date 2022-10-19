@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Testimonial Grid section](https://favourpro.github.io/Testimonials-grid-section-frontend-mentor/)
+- Solution URL: [Testimonial Grid section](https://favourdev1.github.io/Testimonials-grid-section-frontend-mentor/)
 - Live Site URL: [Frontend Mentor challenge](https://www.frontendmentor.io/solutions/tesimonial-grid-section-uLcxcEIOM)
 
 ## My process
